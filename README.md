@@ -6,5 +6,9 @@ https://alandavidgrunberg.github.io/Feeld_Demographics/ <br>
 Preprocessing with Jupyter Notebook: <br>
 https://github.com/alandavidgrunberg/Feeld_Demographics/blob/master/Feeld_Data_Capture.ipynb <br>
 <br>
-*One anonymous example profile screenshot included to show data capture process,  <br>
-rest of profiles not included in repo for privacy
+<em>*one anonymous example profile screenshot included to show data capture process,  <br>
+rest of profiles not included in repo for privacy <br>
+<br>
+**sample non-representative</em> <br>
+
+
