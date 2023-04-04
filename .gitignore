@@ -1,0 +1,12 @@
+
+ 
+
+.DS_Store
+.ipynb_checkpoints
+data/cropped_bottoms
+data/cropped_tops
+data/bottoms
+data/tops
+data/reindexed
+data/backups
+data/originals
